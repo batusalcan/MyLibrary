@@ -1,0 +1,10 @@
+# Derleme ve IDE dosyaları
+*.class
+*.log
+*.iml
+.idea/
+nbproject/private/
+build/
+out/
+.DS_Store
+
