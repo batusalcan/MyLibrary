@@ -7,7 +7,7 @@
 
 - **Course**: SE 2232 - Software System Analysis (Spring 2024–2025)
 - **Institution**: Yaşar University
-- **Instructor**: Asst. Prof. Dr. Deniz Özsoyeller
+- **Instructor**: Dr. Deniz Özsoyeller
 - **Developers**: Batuhan Salcan, Beril Filibelioğlu
 - **Tech Stack**: Java (NetBeans), MySQL, Java Swing (GUI)
 - **Analysis Tools**: Visual Paradigm (UML/DFD)
@@ -86,4 +86,4 @@ This project is created for educational purposes as part of the SE 2232 course.
 
 ## 🙏 Acknowledgments
 
-Special thanks to our instructor **Asst. Prof. Dr. Deniz Özsoyeller** for her guidance on system analysis standards.
+Special thanks to our instructor **Dr. Deniz Özsoyeller** for her guidance on system analysis standards.
